@@ -1,0 +1,13 @@
+scikit-learn==1.1.3
+torch==2.0.1
+matplotlib
+gpytorch
+pandas
+gpflow
+matplotlib==3.5.3
+matplotlib-inline==0.1.2
+dask==2022.10.2
+dask-glm==0.2.0
+dask-ml==1.9.0
+fvgp==4.0.11
+pyGPs==1.3.5
